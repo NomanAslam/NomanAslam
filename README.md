@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm <strong>Ali Saleh</strong>.</h3>
+<h3>Hi 👋, I'm <strong>Muhammad Noman Aslam</strong>.</h3>
 
 <p>I'm a Data Scientist with over 4 years of experience in machine learning, deep learning, and predictive modeling. Proficient in ranking algorithms, supervised and unsupervised learning techniques, and data preprocessing methods. Adept at developing models for various applications such as natural language processing, recommendations, rankings, segmentations, time series and predictive analytics. Strong background in Python, with hands-on experience using libraries such as Scikit-Learn, TensorFlow, and PyTorch.</p>
 
@@ -14,4 +14,4 @@
 </p>
 <hr />
 
-<p>You can visit <a href="https://thetruefuss.github.io/portfolio">my portfolio</a> for finding more relevant information about my work experience, past projects & coding skillset.</p>
+
